@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ayu-27
 - 👀 I’m interested in coding
+- ⚓I'm a Data Analyst
 - 🌱 I’m currently learning artificial Intelligence and machine learning
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me https://github.com/Ayu-27
